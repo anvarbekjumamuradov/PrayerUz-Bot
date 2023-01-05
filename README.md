@@ -1,2 +1,2 @@
-# PrayerUz-Bot
-This is bot created with aiogram
+# Aiogram-Template
+Pythonda Aiogramdan foydalanib bot yaratish uchun shablon
